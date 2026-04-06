@@ -1,0 +1,83 @@
+body{
+    background-color:rgb(34, 34, 60);
+}
+.first{
+    background-color:rgb(47, 47, 84);
+    color:rgb(121, 121, 207);
+    text-align:center;
+    p{
+        color:aliceblue;
+        text-align: center;
+    }
+}
+.secound{
+    background-color:rgb(60, 60, 102);
+    color:rgb(132, 132, 249);
+    padding: 2px;
+    margin: 0px;
+    text-align: center;
+    a {
+        background-color:rgb(151, 151, 199);
+        color: rgb(12, 12, 12);
+        padding: 2px;
+    }
+}
+.third{
+    background-color:rgb(60, 60, 102);
+    color:rgb(132, 132, 249);
+    padding: 2px;
+    margin: 8px;
+    text-align: center;
+    p{
+        color:aliceblue;
+        text-align: center;
+    }
+}
+
+.forth{
+    background-color:rgb(60, 60, 102);
+    color:rgb(132, 132, 249);
+    padding: 2px;
+    margin: 8px;
+    text-align: center;
+    p{
+        color:aliceblue;
+        text-align: center;
+    }
+}
+
+.fifth{
+    background-color:rgb(60, 60, 102);
+    color:rgb(132, 132, 249);
+    padding: 2px;
+    margin: 8px;
+    text-align: center;
+    p{
+        color:aliceblue;
+        text-align: center;
+    }
+}
+
+.sixth{
+    background-color:rgb(60, 60, 102);
+    color:rgb(132, 132, 249);
+    padding: 2px;
+    margin: 8px;
+    text-align: center;
+    p{
+        color:aliceblue;
+        text-align: center;
+    }
+}
+
+.seventh{
+    background-color:rgb(60, 60, 102);
+    color:rgb(132, 132, 249);
+    padding: 2px;
+    margin: 8px;
+    text-align: center;
+    h2{
+        color:aliceblue;
+        text-align: center;
+    }
+}
